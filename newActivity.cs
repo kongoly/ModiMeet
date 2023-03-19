@@ -19,6 +19,7 @@ namespace ModiMeet
             base.OnCreate(savedInstanceState);
 
             // Create your application here
+            int x = 10;
         }
     }
 }
